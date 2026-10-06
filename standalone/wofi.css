@@ -1,0 +1,5 @@
+window { background-color: #080b0d; color: #d7d5ce; border: 1px solid #c89d7c; border-radius: 3px; }
+#input { margin: 12px; padding: 10px; background-color: #141b1e; color: #e6e2d8; border: 1px solid #303a3e; }
+#entry { padding: 9px 12px; margin: 2px 8px; color: #d7d5ce; }
+#entry:selected { background-color: #202a2e; border-left: 2px solid #a9c3c1; }
+#text:selected { color: #f3f0e8; }

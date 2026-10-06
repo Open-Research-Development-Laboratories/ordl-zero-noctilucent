@@ -1,0 +1,14 @@
+/* ORDL Zero Noctilucent | original palette by Maya Magikami (nlda lineage) for community from ORDL */
+/* ORDL Zero Noctilucent: layered instrument-strip styling, no module/config replacement. */
+@define-color background #080b0d;
+@define-color foreground #d7d5ce;
+* { font-family: "IBM Plex Mono", monospace; font-size: 12px; }
+window#waybar { background: rgba(8,11,13,0.96); color: @foreground; border-bottom: 1px solid #303a3e; }
+#workspaces button { padding: 0 9px; margin: 5px 2px; color: #a8b0af; background: transparent; border: 1px solid transparent; border-radius: 3px; }
+#workspaces button.active, #workspaces button.focused { color: #e6e2d8; background: #202a2e; border-color: #c89d7c; }
+#workspaces button.urgent { color: #efb7ad; border-color: #d79894; }
+#clock, #cpu, #memory, #network, #battery, #pulseaudio, #tray { margin: 5px 3px; padding: 4px 10px; background: #141b1e; border-radius: 3px; border: 1px solid #303a3e; }
+#clock { color: #c7e0dc; border-bottom: 1px solid #a9c3c1; }
+#battery.warning { color: #efdbb5; }
+#battery.critical { color: #efb7ad; }
+tooltip { background: #141b1e; border: 1px solid #c89d7c; color: #e6e2d8; border-radius: 3px; }

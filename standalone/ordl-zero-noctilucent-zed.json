@@ -1,0 +1,27 @@
+{
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
+  "name": "ORDL Zero Noctilucent",
+  "author": "Maya Magikami (nlda lineage) for community from ORDL",
+  "themes": [
+    {
+      "name": "ORDL Zero Noctilucent",
+      "appearance": "dark",
+      "style": {
+        "background": "#080b0d",
+        "surface.background": "#141b1e",
+        "elevated_surface.background": "#202a2e",
+        "text": "#d7d5ce",
+        "text.muted": "#8a969c",
+        "text.accent": "#c89d7c",
+        "border": "#303a3e",
+        "border.focused": "#c89d7c",
+        "editor.background": "#080b0d",
+        "editor.foreground": "#d7d5ce",
+        "editor.gutter.background": "#080b0d",
+        "editor.line_number": "#8a969c",
+        "terminal.background": "#080b0d",
+        "terminal.foreground": "#d7d5ce"
+      }
+    }
+  ]
+}

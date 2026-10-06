@@ -1,0 +1,54 @@
+{
+  "name": "ORDL Zero Noctilucent",
+  "timestamp": 1791265406825,
+  "palette": {
+    "colors": [
+      "#080b0d",
+      "#d79894",
+      "#a4c4ad",
+      "#d9c49c",
+      "#a9bbc9",
+      "#bca9c2",
+      "#a9c3c1",
+      "#d7d5ce",
+      "#8a969c",
+      "#efb7ad",
+      "#c0ddc5",
+      "#efdbb5",
+      "#c8d7e3",
+      "#d8c6df",
+      "#c7e0dc",
+      "#f3f0e8"
+    ],
+    "lightMode": false,
+    "mode": "dark",
+    "lockedColors": [
+      0,
+      7,
+      8,
+      15
+    ],
+    "extendedColors": {
+      "accent": "#c89d7c",
+      "cursor": "#e6e2d8",
+      "foreground": "#d7d5ce",
+      "background": "#080b0d",
+      "selection_foreground": "#080b0d",
+      "selection_background": "#c7d9d4"
+    }
+  },
+  "adjustments": {
+    "vibrance": 0,
+    "saturation": 0,
+    "contrast": 0,
+    "brightness": 0,
+    "shadows": 0,
+    "highlights": 0,
+    "hueShift": 0,
+    "temperature": 0,
+    "tint": 0,
+    "gamma": 1,
+    "blackPoint": 0,
+    "whitePoint": 0
+  }
+}

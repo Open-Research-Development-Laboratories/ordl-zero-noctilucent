@@ -1,0 +1,30 @@
+{
+  "toml_parse": "pass",
+  "json_parse": "pass",
+  "baked_key_coverage": "exact",
+  "ansi_slots": 16,
+  "contrast_against_background": {
+    "foreground": 13.44,
+    "muted": 6.51,
+    "accent": 8.05,
+    "red": 8.28,
+    "green": 10.41,
+    "yellow": 11.58,
+    "blue": 10.0,
+    "magenta": 9.02,
+    "cyan": 10.59
+  },
+  "native_runtime_test": "not performed",
+  "wallpaper_pixels": [
+    1672,
+    941
+  ],
+  "canonical_name": "ordl-zero-noctilucent",
+  "branding_scan": "pass",
+  "palette_values_preserved": true,
+  "wallpaper_bytes_preserved": true,
+  "blueprint_structure_and_16_hex_colors": "pass",
+  "relative_blueprint_and_wallpaper_paths_exist": true,
+  "manifest_scope": "Every package file except docs/SHA256SUMS; relative paths from package root",
+  "validation_scope": "Static parsing and structural checks; no native application runtime validation"
+}
