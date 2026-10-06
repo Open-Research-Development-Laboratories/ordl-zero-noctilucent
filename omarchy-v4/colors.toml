@@ -2,7 +2,7 @@
 # Semantic palette alternative for native Omarchy v4. Not an automatic override.
 mode = "dark"
 accent = "#c89d7c"
-selection = "#202a2e"
+selection = "#c7d9d4"
 selection_foreground = "#080b0d"
 muted = "#8a969c"
 background = "#080b0d"

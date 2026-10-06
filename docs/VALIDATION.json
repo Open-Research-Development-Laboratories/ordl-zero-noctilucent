@@ -25,6 +25,25 @@
   "wallpaper_bytes_preserved": true,
   "blueprint_structure_and_16_hex_colors": "pass",
   "relative_blueprint_and_wallpaper_paths_exist": true,
-  "manifest_scope": "Every package file except docs/SHA256SUMS; relative paths from package root",
-  "validation_scope": "Static parsing and structural checks; no native application runtime validation"
+  "manifest_scope": "Tracked package files except docs/SHA256SUMS; README.md retains its prior checksum as the owner explicitly requested and is expected to fail verification.",
+  "validation_scope": "Static parsing and structural checks; no native application runtime validation",
+  "selection_contrast_against_declared_background": {
+    "root_selection": 13.444,
+    "omarchy_v4_selection": 13.444,
+    "blueprint_and_terminal_selection": 13.444,
+    "btop_and_wofi_selection": 12.877,
+    "vscode_selection_default_text": 9.985,
+    "waybar_active_workspace": 11.337,
+    "walker_selected_text_on_declared_base": 8.054
+  },
+  "selection_validation_note": "Static sRGB contrast checks of explicit pairs; inherited application styling and native rendering remain untested. VS Code selection background adjusted to preserve legibility of all supplied syntax foreground colors.",
+  "contrast_fix_base_commit": "e0a2649b2cbf85b6917e13c37a380a3e61497ad6",
+  "vscode_selected_syntax_contrast": {
+    "#d9c49c": 8.607,
+    "#a9bbc9": 7.429,
+    "#a9c3c1": 7.865,
+    "#bca9c2": 6.698,
+    "#d7d5ce": 9.985,
+    "#8a969c": 4.834
+  }
 }
